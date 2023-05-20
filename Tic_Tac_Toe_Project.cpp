@@ -59,8 +59,8 @@ int main()
 {
     cout<<endl<<"\t\tT_I_C T_A_C T_O_E G_A_M_E"<<endl;
     while(true){
-    display();
-    player_turn();
-    display();
+        display();
+        player_turn();
+        display();
     }
 }
